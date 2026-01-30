@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+spacy
+nltk
+sentence-transformers
+bertopic
+google-generative-ai
+python-dotenv
+torch
+umap-learn
+hdbscan
+tqdm
+jupyter

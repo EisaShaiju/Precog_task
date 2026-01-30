@@ -1,0 +1,49 @@
+{
+  "novel": "typhoon",
+  "num_sentences": 1308,
+  "num_topics": 2,
+  "topics": [
+    {
+      "topic_id": 0,
+      "keywords": [
+        "ship",
+        "macwhirr",
+        "captain",
+        "captain macwhirr",
+        "sea",
+        "end",
+        "way",
+        "room",
+        "went",
+        "black"
+      ],
+      "num_sentences": 1073,
+      "sample_sentences": [
+        "[The other stories included in this volume (\"Amy Foster,\" \"Falk: A Reminiscence,\" and \"To-morrow\") being already available in another volume, have not been entered here.]",
+        "Far as the mariner on highest mast Can see all around upon the calmed vast, So wide was Neptune's hall .",
+        "-- KEATS The main characteristic of this volume consists in this, that all the stories composing it belong not only to the same period but have been written one after another in the order in which they appear in the book."
+      ]
+    },
+    {
+      "topic_id": 1,
+      "keywords": [
+        "mr jukes",
+        "caused",
+        "louder",
+        "jukes turned",
+        "like man",
+        "catching",
+        "ventilators",
+        "hastily",
+        "meaning",
+        "doorway"
+      ],
+      "num_sentences": 61,
+      "sample_sentences": [
+        "Young Jukes, the chief mate, attending his commander to the gangway, would sometimes venture to say, with the greatest gentleness, \"Allow me, sir\"--and possessing himself of the umbrella deferentially, would elevate the ferule, shake the folds, twirl a neat furl in a jiffy, and hand it back; going through the performance with a face of such portentous gravity, that Mr. Solomon Rout, the chief engineer, smoking his morning cigar over the skylight, would turn away his head in order to hide a smile.",
+        "Mr. Jukes, in moments of expansion on shore, would proclaim loudly that the \"old girl was as good as she was pretty.\"",
+        "At the news of the contemplated transfer Jukes grew restless, as if under a sense of personal affront."
+      ]
+    }
+  ]
+}

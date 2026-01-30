@@ -1,0 +1,22 @@
+{
+  "heart_of_darkness": {
+    "num_sentences": 1829,
+    "num_samples": 100
+  },
+  "lord_jim": {
+    "num_sentences": 5529,
+    "num_samples": 100
+  },
+  "metamorphosis": {
+    "num_sentences": 724,
+    "num_samples": 100
+  },
+  "the_trial": {
+    "num_sentences": 3013,
+    "num_samples": 100
+  },
+  "typhoon": {
+    "num_sentences": 1429,
+    "num_samples": 100
+  }
+}

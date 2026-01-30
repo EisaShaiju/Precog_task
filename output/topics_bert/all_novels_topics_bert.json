@@ -1,0 +1,247 @@
+{
+  "heart_of_darkness": {
+    "novel": "heart_of_darkness",
+    "num_sentences": 1678,
+    "num_topics": 2,
+    "topics": [
+      {
+        "topic_id": 0,
+        "keywords": [
+          "like",
+          "man",
+          "know",
+          "came",
+          "little",
+          "river",
+          "looked",
+          "long",
+          "men",
+          "white"
+        ],
+        "num_sentences": 1420,
+        "sample_sentences": [
+          "Heart of Darkness by Joseph Conrad Contents The Nellie, a cruising yawl, swung to her anchor without a flutter of the sails, and was at rest.",
+          "The flood had made, the wind was nearly calm, and being bound down the river, the only thing for it was to come to and wait for the turn of the tide.",
+          "The sea-reach of the Thames stretched before us like the beginning of an interminable waterway."
+        ]
+      },
+      {
+        "topic_id": 1,
+        "keywords": [
+          "rivets",
+          "envy",
+          "excited",
+          "heard kurtz",
+          "excuse",
+          "delay",
+          "sole purpose",
+          "ripe",
+          "time ripe",
+          "favour"
+        ],
+        "num_sentences": 20,
+        "sample_sentences": [
+          "I heard the name of Kurtz pronounced, then the words, 'take advantage of this unfortunate accident.'",
+          "I would not have gone so far as to fight for Kurtz, but I went for him near enough to a lie.",
+          "This simply because I had a notion it somehow would be of help to that Kurtz whom at the time I did not see - you understand."
+        ]
+      }
+    ]
+  },
+  "lord_jim": {
+    "novel": "lord_jim",
+    "num_sentences": 5178,
+    "num_topics": 2,
+    "topics": [
+      {
+        "topic_id": 0,
+        "keywords": [
+          "man",
+          "said",
+          "old",
+          "men",
+          "away",
+          "say",
+          "white",
+          "cornelius",
+          "thing",
+          "people"
+        ],
+        "num_sentences": 1518,
+        "sample_sentences": [
+          "Produced by Forrest Wasserman and David Widger AUTHOR'S NOTE When this novel first appeared in book form a notion got about that I had been bolted away with.",
+          "Some reviewers maintained that the work starting as a short story had got beyond the writer's control.",
+          "One or two discovered internal evidence of the fact, which seemed to amuse them."
+        ]
+      },
+      {
+        "topic_id": 1,
+        "keywords": [
+          "addressing",
+          "believing",
+          "child started",
+          "clawed",
+          "choked",
+          "did dare",
+          "crammed",
+          "telling just",
+          "sorcerer",
+          "didn care"
+        ],
+        "num_sentences": 29,
+        "sample_sentences": [
+          "'My eyes met his for the first time at that inquiry.",
+          "Again he clawed, pulling at me downwards in his eagerness to relieve himself by a confidential communication.",
+          "Something in the sound of that quiet tone of his warned me to be on my defence."
+        ]
+      }
+    ]
+  },
+  "metamorphosis": {
+    "novel": "metamorphosis",
+    "num_sentences": 702,
+    "num_topics": 2,
+    "topics": [
+      {
+        "topic_id": 0,
+        "keywords": [
+          "really",
+          "legs",
+          "feel",
+          "lay",
+          "wanted",
+          "food",
+          "window",
+          "great",
+          "set",
+          "pain"
+        ],
+        "num_sentences": 392,
+        "sample_sentences": [
+          "He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.",
+          "His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.",
+          "His room, a proper human room although a little too small, lay peacefully between its four familiar walls."
+        ]
+      },
+      {
+        "topic_id": 1,
+        "keywords": [
+          "gregor father",
+          "gregor mother",
+          "gregor room",
+          "gregor sister",
+          "heard",
+          "wanted",
+          "furniture",
+          "help",
+          "straight",
+          "new"
+        ],
+        "num_sentences": 231,
+        "sample_sentences": [
+          "Gregor then turned to look out the window at the dull weather.",
+          "And even if he did catch the train he would not avoid his boss's anger as the office assistant would have been there to see the five o'clock train go, he would have put in his report about Gregor's not being there a long time ago.",
+          "Gregor did in fact, apart from excessive sleepiness after sleeping for so long, feel completely well and even felt much hungrier than usual."
+        ]
+      }
+    ]
+  },
+  "the_trial": {
+    "novel": "the_trial",
+    "num_sentences": 3201,
+    "num_topics": 2,
+    "topics": [
+      {
+        "topic_id": 0,
+        "keywords": [
+          "trial",
+          "lawyer",
+          "lawyers",
+          "acquittal",
+          "judges",
+          "men",
+          "proceedings",
+          "accused",
+          "defendant",
+          "cases"
+        ],
+        "num_sentences": 1616,
+        "sample_sentences": [
+          "There was immediately a knock at the door and a man entered.",
+          "He had never seen the man in this house before.",
+          "The man, however, ignored the question as if his arrival simply had to be accepted, and merely replied, \"You rang?\""
+        ]
+      },
+      {
+        "topic_id": 1,
+        "keywords": [
+          "mr",
+          "watching",
+          "men",
+          "said looking",
+          "wiped",
+          "mr said",
+          "cassock",
+          "looking round",
+          "greatly",
+          "glanced"
+        ],
+        "num_sentences": 502,
+        "sample_sentences": [
+          "asked K., sitting half upright in his bed.",
+          "The strange man could not have learned anything from it that he hadn't known already, but now he said to K., as if making his report \"It is not possible.\"",
+          "\"It would be the first time that's happened,\" said K., as he jumped out of bed and quickly pulled on his trousers."
+        ]
+      }
+    ]
+  },
+  "typhoon": {
+    "novel": "typhoon",
+    "num_sentences": 1308,
+    "num_topics": 2,
+    "topics": [
+      {
+        "topic_id": 0,
+        "keywords": [
+          "ship",
+          "macwhirr",
+          "captain",
+          "captain macwhirr",
+          "sea",
+          "end",
+          "way",
+          "room",
+          "went",
+          "black"
+        ],
+        "num_sentences": 1073,
+        "sample_sentences": [
+          "[The other stories included in this volume (\"Amy Foster,\" \"Falk: A Reminiscence,\" and \"To-morrow\") being already available in another volume, have not been entered here.]",
+          "Far as the mariner on highest mast Can see all around upon the calmed vast, So wide was Neptune's hall .",
+          "-- KEATS The main characteristic of this volume consists in this, that all the stories composing it belong not only to the same period but have been written one after another in the order in which they appear in the book."
+        ]
+      },
+      {
+        "topic_id": 1,
+        "keywords": [
+          "mr jukes",
+          "caused",
+          "louder",
+          "jukes turned",
+          "like man",
+          "catching",
+          "ventilators",
+          "hastily",
+          "meaning",
+          "doorway"
+        ],
+        "num_sentences": 61,
+        "sample_sentences": [
+          "Young Jukes, the chief mate, attending his commander to the gangway, would sometimes venture to say, with the greatest gentleness, \"Allow me, sir\"--and possessing himself of the umbrella deferentially, would elevate the ferule, shake the folds, twirl a neat furl in a jiffy, and hand it back; going through the performance with a face of such portentous gravity, that Mr. Solomon Rout, the chief engineer, smoking his morning cigar over the skylight, would turn away his head in order to hide a smile.",
+          "Mr. Jukes, in moments of expansion on shore, would proclaim loudly that the \"old girl was as good as she was pretty.\"",
+          "At the news of the contemplated transfer Jukes grew restless, as if under a sense of personal affront."
+        ]
+      }
+    ]
+  }
+}

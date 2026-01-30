@@ -1,0 +1,15 @@
+{
+  "novel": "metamorphosis",
+  "author": "Franz Kafka",
+  "topics": [
+    "social alienation",
+    "existential absurdity",
+    "dehumanization of labor",
+    "familial obligation",
+    "loss of identity",
+    "physical transformation",
+    "communication breakdown",
+    "capitalist oppression"
+  ],
+  "num_topics": 8
+}

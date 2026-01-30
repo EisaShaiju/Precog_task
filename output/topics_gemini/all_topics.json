@@ -1,0 +1,77 @@
+{
+  "heart_of_darkness": {
+    "novel": "heart_of_darkness",
+    "author": "Joseph Conrad",
+    "topics": [
+      "colonial exploitation",
+      "savagery versus civilization",
+      "the nature of darkness",
+      "moral ambiguity",
+      "the lure of exploration",
+      "fascination of the abomination",
+      "devotion to efficiency",
+      "imperialist hypocrisy"
+    ],
+    "num_topics": 8
+  },
+  "lord_jim": {
+    "novel": "lord_jim",
+    "author": "Joseph Conrad",
+    "topics": [
+      "lost honour",
+      "romantic idealism",
+      "moral failure",
+      "identity and reputation",
+      "the seafaring life",
+      "heroism and cowardice",
+      "moral ambiguity",
+      "the weight of the past"
+    ],
+    "num_topics": 8
+  },
+  "metamorphosis": {
+    "novel": "metamorphosis",
+    "author": "Franz Kafka",
+    "topics": [
+      "social alienation",
+      "existential absurdity",
+      "dehumanization of labor",
+      "familial obligation",
+      "loss of identity",
+      "physical transformation",
+      "communication breakdown",
+      "capitalist oppression"
+    ],
+    "num_topics": 8
+  },
+  "the_trial": {
+    "novel": "the_trial",
+    "author": "Franz Kafka",
+    "topics": [
+      "bureaucratic absurdity",
+      "existential isolation",
+      "pervasive surveillance",
+      "the nature of guilt",
+      "faceless authority",
+      "powerlessness of the individual",
+      "absurdity of the law",
+      "arbitrary arrest"
+    ],
+    "num_topics": 8
+  },
+  "typhoon": {
+    "novel": "typhoon",
+    "author": "Joseph Conrad",
+    "topics": [
+      "elemental fury of nature",
+      "unimaginative literalism",
+      "maritime professional duty",
+      "unflappable human resilience",
+      "cross-cultural tension",
+      "isolation of command",
+      "unpredictability of fate",
+      "social order under stress"
+    ],
+    "num_topics": 8
+  }
+}

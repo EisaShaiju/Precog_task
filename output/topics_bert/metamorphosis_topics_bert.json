@@ -1,0 +1,49 @@
+{
+  "novel": "metamorphosis",
+  "num_sentences": 702,
+  "num_topics": 2,
+  "topics": [
+    {
+      "topic_id": 0,
+      "keywords": [
+        "really",
+        "legs",
+        "feel",
+        "lay",
+        "wanted",
+        "food",
+        "window",
+        "great",
+        "set",
+        "pain"
+      ],
+      "num_sentences": 392,
+      "sample_sentences": [
+        "He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.",
+        "His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.",
+        "His room, a proper human room although a little too small, lay peacefully between its four familiar walls."
+      ]
+    },
+    {
+      "topic_id": 1,
+      "keywords": [
+        "gregor father",
+        "gregor mother",
+        "gregor room",
+        "gregor sister",
+        "heard",
+        "wanted",
+        "furniture",
+        "help",
+        "straight",
+        "new"
+      ],
+      "num_sentences": 231,
+      "sample_sentences": [
+        "Gregor then turned to look out the window at the dull weather.",
+        "And even if he did catch the train he would not avoid his boss's anger as the office assistant would have been there to see the five o'clock train go, he would have put in his report about Gregor's not being there a long time ago.",
+        "Gregor did in fact, apart from excessive sleepiness after sleeping for so long, feel completely well and even felt much hungrier than usual."
+      ]
+    }
+  ]
+}

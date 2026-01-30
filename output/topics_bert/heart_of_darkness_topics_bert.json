@@ -1,0 +1,49 @@
+{
+  "novel": "heart_of_darkness",
+  "num_sentences": 1678,
+  "num_topics": 2,
+  "topics": [
+    {
+      "topic_id": 0,
+      "keywords": [
+        "like",
+        "man",
+        "know",
+        "came",
+        "little",
+        "river",
+        "looked",
+        "long",
+        "men",
+        "white"
+      ],
+      "num_sentences": 1420,
+      "sample_sentences": [
+        "Heart of Darkness by Joseph Conrad Contents The Nellie, a cruising yawl, swung to her anchor without a flutter of the sails, and was at rest.",
+        "The flood had made, the wind was nearly calm, and being bound down the river, the only thing for it was to come to and wait for the turn of the tide.",
+        "The sea-reach of the Thames stretched before us like the beginning of an interminable waterway."
+      ]
+    },
+    {
+      "topic_id": 1,
+      "keywords": [
+        "rivets",
+        "envy",
+        "excited",
+        "heard kurtz",
+        "excuse",
+        "delay",
+        "sole purpose",
+        "ripe",
+        "time ripe",
+        "favour"
+      ],
+      "num_sentences": 20,
+      "sample_sentences": [
+        "I heard the name of Kurtz pronounced, then the words, 'take advantage of this unfortunate accident.'",
+        "I would not have gone so far as to fight for Kurtz, but I went for him near enough to a lie.",
+        "This simply because I had a notion it somehow would be of help to that Kurtz whom at the time I did not see - you understand."
+      ]
+    }
+  ]
+}

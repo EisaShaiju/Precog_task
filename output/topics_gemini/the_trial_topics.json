@@ -1,0 +1,15 @@
+{
+  "novel": "the_trial",
+  "author": "Franz Kafka",
+  "topics": [
+    "bureaucratic absurdity",
+    "existential isolation",
+    "pervasive surveillance",
+    "the nature of guilt",
+    "faceless authority",
+    "powerlessness of the individual",
+    "absurdity of the law",
+    "arbitrary arrest"
+  ],
+  "num_topics": 8
+}

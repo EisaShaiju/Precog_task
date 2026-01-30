@@ -1,0 +1,49 @@
+{
+  "novel": "the_trial",
+  "num_sentences": 3201,
+  "num_topics": 2,
+  "topics": [
+    {
+      "topic_id": 0,
+      "keywords": [
+        "trial",
+        "lawyer",
+        "lawyers",
+        "acquittal",
+        "judges",
+        "men",
+        "proceedings",
+        "accused",
+        "defendant",
+        "cases"
+      ],
+      "num_sentences": 1616,
+      "sample_sentences": [
+        "There was immediately a knock at the door and a man entered.",
+        "He had never seen the man in this house before.",
+        "The man, however, ignored the question as if his arrival simply had to be accepted, and merely replied, \"You rang?\""
+      ]
+    },
+    {
+      "topic_id": 1,
+      "keywords": [
+        "mr",
+        "watching",
+        "men",
+        "said looking",
+        "wiped",
+        "mr said",
+        "cassock",
+        "looking round",
+        "greatly",
+        "glanced"
+      ],
+      "num_sentences": 502,
+      "sample_sentences": [
+        "asked K., sitting half upright in his bed.",
+        "The strange man could not have learned anything from it that he hadn't known already, but now he said to K., as if making his report \"It is not possible.\"",
+        "\"It would be the first time that's happened,\" said K., as he jumped out of bed and quickly pulled on his trousers."
+      ]
+    }
+  ]
+}

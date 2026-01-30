@@ -1,0 +1,49 @@
+{
+  "novel": "lord_jim",
+  "num_sentences": 5178,
+  "num_topics": 2,
+  "topics": [
+    {
+      "topic_id": 0,
+      "keywords": [
+        "man",
+        "said",
+        "old",
+        "men",
+        "away",
+        "say",
+        "white",
+        "cornelius",
+        "thing",
+        "people"
+      ],
+      "num_sentences": 1518,
+      "sample_sentences": [
+        "Produced by Forrest Wasserman and David Widger AUTHOR'S NOTE When this novel first appeared in book form a notion got about that I had been bolted away with.",
+        "Some reviewers maintained that the work starting as a short story had got beyond the writer's control.",
+        "One or two discovered internal evidence of the fact, which seemed to amuse them."
+      ]
+    },
+    {
+      "topic_id": 1,
+      "keywords": [
+        "addressing",
+        "believing",
+        "child started",
+        "clawed",
+        "choked",
+        "did dare",
+        "crammed",
+        "telling just",
+        "sorcerer",
+        "didn care"
+      ],
+      "num_sentences": 29,
+      "sample_sentences": [
+        "'My eyes met his for the first time at that inquiry.",
+        "Again he clawed, pulling at me downwards in his eagerness to relieve himself by a confidential communication.",
+        "Something in the sound of that quiet tone of his warned me to be on my defence."
+      ]
+    }
+  ]
+}
