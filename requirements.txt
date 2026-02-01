@@ -1,16 +1,34 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-spacy
-nltk
-sentence-transformers
-bertopic
-google-generative-ai
-python-dotenv
-torch
-umap-learn
-hdbscan
-tqdm
-jupyter
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# NLP Processing
+spacy>=3.7.0
+nltk>=3.8.0
+
+# Deep Learning & Embeddings (for Tier B & C)
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# Topic Modeling
+bertopic>=0.15.0
+umap-learn>=0.5.0
+hdbscan>=0.8.0
+
+# API & Environment
+google-generative-ai>=0.3.0
+python-dotenv>=1.0.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Development
+jupyter>=1.0.0
